@@ -1,0 +1,47 @@
+.navBar{
+    background-color: rgb(119, 45, 55);
+     display: flex; 
+     font-family: Arial;
+ }
+ .content1{
+    background-color: lightblue; 
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+ .content2{
+    display: flex;
+    justify-content: space-around;
+ }
+ .content2text{
+    font-size: 23;
+    font-family: Arial;
+    height: 400px;
+    width: 1000px;
+    padding-left: 100px;
+ }
+ .navBar2{
+    color: black;
+    padding-left: 890; 
+    font-family: Arial;
+ }
+ .contentMini{
+    display: flex; 
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+    font-family: Arial;
+ }
+ .contentMini2{
+    border: 1px rgb(202, 207, 212) solid;
+    text-align: left;
+    width: 400px;
+    height: 400px;
+ }
+ .buttons{
+    color: aliceblue; 
+    background-color: rgb(119, 45, 55);
+    height: 10%; width: 23%;
+    padding: auto;
+ }
